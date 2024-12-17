@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Epro Manage](https://dyhardx.github.io/Epro)
 
-- 📫 How to reach me **dyhard.23A112345@vitbhopal.ac.in**
+- 📫 How to reach me **dyhardeveloper@gmail.com**
 
 - 📄 Know about my experiences [Android App Development {Skechwere} :- From Since 2022](Android App Development {Skechwere} :- From Since 2022)
 
