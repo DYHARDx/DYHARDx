@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/DYHARDx/DYHARDx/blob/main/WhatsApp%20Image%202024-12-17%20at%2008.21.12_50c089ac.jpg)
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A Developer & Student from India</h3>
