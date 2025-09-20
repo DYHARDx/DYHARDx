@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Android Developer | Aspiring Software Engineer | Open Source Contributor</h3>
+<h1 align="center">
+  Hi 👋, I'm Aman Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+<h3 align="center">
+  Android Developer | Open Source Contributor | <a href="https://gssoc.girlscript.tech/">GSSoC'25 Contributor</a>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=600&lines=Coding+%7C+Open+Source+%7C+Learning+%7C+Android+Dev" alt="Typing SVG"/>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Java, Kotlin & Android Development**
-- 🔭 Working on **Epro — Connect EachOther**
-- 💡 Exploring **Next.js, Firebase, and Web Projects**
-- 🎯 Goal: To build impactful solutions & contribute to open source
-- ⚡ Fun fact: I’m also a gamer 🎮
+- 🌱 Learning **Java, Kotlin & Android SDK**  
+- 💡 Open source enthusiast & **GSSoC'25 Contributor**  
+- ⚡ Fun fact: Gamer 🎮, coffee lover ☕, lifelong learner 📚  
+- 🎨 Passionate about building **clean and aesthetic apps**  
 
 ---
 
@@ -28,25 +35,22 @@
 ---
 
 ## 🌟 Featured Projects
-- 🌐 [**Epro — Connect EachOther**](https://dyhardx.github.io/Epro)  
-   A platform to bring people together.  
-- 💼 [**My Portfolio**](https://github.com/DYHARDx/MY-Portfolio)  
-   Personal portfolio website showcasing my work.  
-- ⚡ [**QMine**](https://github.com/DYHARDx/QMine)  
-   JavaScript-based project: *Grow Wealth Smartly*.  
-- 📚 [**BYAMN-Study**](https://github.com/DYHARDx/BYAMN-Study)  
-   Study resources & chapter-wise content for students.  
+| Project | Description |
+|---|---|
+| **[MY-Portfolio](https://github.com/DYHARDx/MY-Portfolio)** | Personal portfolio showcasing projects |
+| **[QMine](https://github.com/DYHARDx/QMine)** | JavaScript-based finance/utility project |
+| **[BYAMN-Study](https://github.com/DYHARDx/BYAMN-Study)** | Study resources & chapter-wise content |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -56,8 +60,9 @@
   <a href="mailto:dyhardeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC-25-FF69B4?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ From [Aman Singh](https://github.com/DYHARDx)
+⭐ Made with ❤️ by **Aman Singh (DYHARDx)**
