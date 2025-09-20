@@ -1,35 +1,63 @@
-
-
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A Developer & Student from India</h3>
+<h3 align="center">Android Developer | Aspiring Software Engineer | Open Source Contributor</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/DYHARDx/DYHARDx/blob/main/vecteezy_cartoon-character-with-the-desk-working-concept-illustration_44448949.png">
+---
 
+## 🚀 About Me
+- 🌱 Currently learning **Java, Kotlin & Android Development**
+- 🔭 Working on **Epro — Connect EachOther**
+- 💡 Exploring **Next.js, Firebase, and Web Projects**
+- 🎯 Goal: To build impactful solutions & contribute to open source
+- ⚡ Fun fact: I’m also a gamer 🎮
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyhardx&label=Profile%20views&color=0e75b6&style=flat" alt="dyhardx" /> </p>
+---
 
-- 🔭 I’m currently working on [Epro - Connect Eachother](https://dyhardx.github.io/Epro)
-
-- 🌱 I’m currently learning **Java , Kotlin etc**
-
-- 🤝 I’m looking for help with [Epro Manage](https://dyhardx.github.io/Epro)
-
-- 📫 How to reach me **dyhardeveloper@gmail.com**
-
-- 📄 Know about my experiences : [Android App Development]
--  {Skechwere} :-Since 2022.
-- ⚡ Fun fact **I Think I am Best Gamer 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dyhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyhard" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.amn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.amn1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/byamn.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byamn.app" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dyhardx&" alt="dyhardx" /></p>
+## 🌟 Featured Projects
+- 🌐 [**Epro — Connect EachOther**](https://dyhardx.github.io/Epro)  
+   A platform to bring people together.  
+- 💼 [**My Portfolio**](https://github.com/DYHARDx/MY-Portfolio)  
+   Personal portfolio website showcasing my work.  
+- ⚡ [**QMine**](https://github.com/DYHARDx/QMine)  
+   JavaScript-based project: *Grow Wealth Smartly*.  
+- 📚 [**BYAMN-Study**](https://github.com/DYHARDx/BYAMN-Study)  
+   Study resources & chapter-wise content for students.  
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=dyhardx&show_icons=true&locale=en" alt="dyhardx" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:dyhardeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [Aman Singh](https://github.com/DYHARDx)
