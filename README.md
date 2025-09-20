@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=600&lines=Coding+%7C+Open+Source+%7C+Learning+%7C+Android+Dev" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=600&lines= Coding+%7C+Open+Source+%7C+Learning+%7C+Android+Dev" alt="Typing SVG"/>
 </p>
 
 ---
