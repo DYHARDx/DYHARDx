@@ -6,16 +6,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=600&lines= Coding+%7C+Open+Source+%7C+Learning+%7C+Android+Dev" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=600&lines=Coding+%7C+Open+Source+%7C+Learning+%7C+Android+Dev" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Java, Kotlin & Android SDK**  
-- 💡 Open source enthusiast & **GSSoC'25 Contributor**  
-- ⚡ Fun fact: Gamer 🎮, coffee lover ☕, lifelong learner 📚  
-- 🎨 Passionate about building **clean and aesthetic apps**  
+- 🌱 Currently learning **Java, Kotlin & Android SDK**  
+- 💡 Passionate about **open-source** & contributing as a **GSSoC'25 Contributor**  
+- ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
+- 🎨 I love building **clean, aesthetic & functional Android apps**  
 
 ---
 
@@ -45,12 +45,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DYHARDx&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DYHARDx&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DYHARDx&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
@@ -65,4 +83,12 @@
 
 ---
 
-⭐ Made with ❤️ by **Aman Singh (DYHARDx)**
+<p align="center">
+  <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+</p>
