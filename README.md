@@ -42,25 +42,17 @@
 
 ---
 
-<!-- PROJECTS -->
-## 🌟 Featured Projects
-| Project | Description |
-|---|---|
-| 🎯 [**MY-Portfolio**](https://github.com/DYHARDx/MY-Portfolio) | Personal portfolio showcasing projects |
-| 💰 [**QMine**](https://github.com/DYHARDx/QMine) | JavaScript-based finance/utility project |
-| 📚 [**BYAMN-Study**](https://github.com/DYHARDx/BYAMN-Study) | Study resources & chapter-wise content |
 
----
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Insights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  
 </p>
 
 <p align="center">
