@@ -56,7 +56,7 @@
 ## 📊 GitHub Insights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical&hide_border=true"/>
+
 </p>
 
 <p align="center">
