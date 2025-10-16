@@ -1,25 +1,32 @@
+<!-- HEADER -->
 <h1 align="center">
-  Hi 👋, I'm Aman Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi 👋, I'm Aman Singh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">
-  Android Developer | Open Source Contributor | <a href="https://gssoc.girlscript.tech/">GSSoC'25 Contributor</a>
+  Android Developer • Open Source Contributor • <a href="https://gssoc.girlscript.tech/">GSSoC'25 Contributor</a>
 </h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
+</p>
 
-
----
-
+<!-- ABOUT -->
 ## 🚀 About Me
-- 🌱 Currently learning **Java, Kotlin & Android SDK**  
-- 💡 Passionate about **open-source** & contributing as a **GSSoC'25 Contributor**  
+- 🌱 Learning **Java**, **Kotlin**, and **Android SDK**  
+- 💡 Passionate about **Open Source** and **GSSoC'25**  
 - ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
-- 🎨 I love building **clean, aesthetic & functional Android apps**
+- 🎨 Love building **clean, functional Android apps**
 
-- [![An image of @dyhardx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dyhardx)](https://holopin.io/@dyhardx)
-
+<p align="center">
+  <a href="https://holopin.io/@dyhardx">
+    <img src="https://holopin.me/dyhardx" alt="@dyhardx Holopin badges" />
+  </a>
+</p>
 
 ---
 
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
@@ -35,23 +42,25 @@
 
 ---
 
+<!-- PROJECTS -->
 ## 🌟 Featured Projects
 | Project | Description |
 |---|---|
-| **[MY-Portfolio](https://github.com/DYHARDx/MY-Portfolio)** | Personal portfolio showcasing projects |
-| **[QMine](https://github.com/DYHARDx/QMine)** | JavaScript-based finance/utility project |
-| **[BYAMN-Study](https://github.com/DYHARDx/BYAMN-Study)** | Study resources & chapter-wise content |
+| 🎯 [**MY-Portfolio**](https://github.com/DYHARDx/MY-Portfolio) | Personal portfolio showcasing projects |
+| 💰 [**QMine**](https://github.com/DYHARDx/QMine) | JavaScript-based finance/utility project |
+| 📚 [**BYAMN-Study**](https://github.com/DYHARDx/BYAMN-Study) | Study resources & chapter-wise content |
 
 ---
 
-## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -60,36 +69,42 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+<!-- TROPHIES -->
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DYHARDx&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DYHARDx&theme=radical&no-frame=true&margin-w=15&row=1&column=7"/>
 </p>
 
 ---
 
-## 🚀 Contribution Graph  
+<!-- CONTRIBUTION GRAPH -->
+## 🚀 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DYHARDx&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
 
+<!-- CONNECT -->
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:dyhardeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dyhardx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/dyhardx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC-25-FF69B4?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'25-FF69B4?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
+<!-- QUOTE -->
 <p align="center">
   <img src="https://img.shields.io/badge/%22Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.%22%20–%20Harold%20Abelson-30336b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" width="1000" alt="Tech Quote"/>
 </p>
 
----
-
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
 </p>
+
+
+
