@@ -13,7 +13,10 @@
 - 🌱 Currently learning **Java, Kotlin & Android SDK**  
 - 💡 Passionate about **open-source** & contributing as a **GSSoC'25 Contributor**  
 - ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
-- 🎨 I love building **clean, aesthetic & functional Android apps**  
+- 🎨 I love building **clean, aesthetic & functional Android apps**
+
+- [![An image of @dyhardx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dyhardx)](https://holopin.io/@dyhardx)
+
 
 ---
 
