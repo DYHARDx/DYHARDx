@@ -18,11 +18,19 @@
 - ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
 - 🎨 Love building **clean, functional Android apps**
 
+
+## 🚀 Hacktoberfest Badge 
 <p align="center">
   <a href="https://holopin.io/@dyhardx">
     <img src="https://holopin.me/dyhardx" alt="@dyhardx Holopin badges" />
   </a>
 </p>
+
+---
+
+## 🚀 Gssoc Badge 
+
+[![GSSoC'25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge)](https://github.com/DYHARDx)
 
 ---
 
