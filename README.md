@@ -19,7 +19,7 @@
 - 🎨 Love building **clean, functional Android apps**
 
 
-## 🚀 Hacktoberfest Badge 
+### 🚀 Hacktoberfest Badge 
 <p align="center">
   <a href="https://holopin.io/@dyhardx">
     <img src="https://holopin.me/dyhardx" alt="@dyhardx Holopin badges" />
@@ -27,38 +27,40 @@
 </p>
 
 ---
-## 🏅 GSSoC'25 Earned Badges  
+## 🏅 GSSoC'25 Badges  
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Explorer-Badge.png" width="100" alt="Explorer Badge"/><br/>
-        <sub><b>Explorer Badge</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Adventurer-Badge.png" width="100" alt="Adventurer Badge"/><br/>
-        <sub><b>Adventurer Badge</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Trailblazer-Badge.png" width="100" alt="Trailblazer Badge"/><br/>
-        <sub><b>Trailblazer Badge</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Summit-Seeker-Badge.png" width="100" alt="Summit Seeker Badge"/><br/>
-        <sub><b>Summit Seeker Badge</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Champion-Badge.png" width="100" alt="Champion Badge"/><br/>
-        <sub><b>Champion Badge</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Innovator-Badge.png" width="100" alt="Innovator Badge"/><br/>
-        <sub><b>Innovator Badge</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Explorer-Badge.png" width="100" alt="Explorer Badge"/><br/>
+      <sub><b>Explorer Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Adventurer-Badge.png" width="100" alt="Adventurer Badge"/><br/>
+      <sub><b>Adventurer Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Trailblazer-Badge.png" width="100" alt="Trailblazer Badge"/><br/>
+      <sub><b>Trailblazer Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Summit-Seeker-Badge.png" width="100" alt="Summit Seeker Badge"/><br/>
+      <sub><b>Summit Seeker Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Champion-Badge.png" width="100" alt="Champion Badge"/><br/>
+      <sub><b>Champion Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Innovator-Badge.png" width="100" alt="Innovator Badge"/><br/>
+      <sub><b>Innovator Badge</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
