@@ -27,10 +27,40 @@
 </p>
 
 ---
+## 🏅 GSSoC'25 Earned Badges  
 
-## 🚀 Gssoc Badge 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Explorer-Badge.png" width="100" alt="Explorer Badge"/><br/>
+        <sub><b>Explorer Badge</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Adventurer-Badge.png" width="100" alt="Adventurer Badge"/><br/>
+        <sub><b>Adventurer Badge</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Trailblazer-Badge.png" width="100" alt="Trailblazer Badge"/><br/>
+        <sub><b>Trailblazer Badge</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Summit-Seeker-Badge.png" width="100" alt="Summit Seeker Badge"/><br/>
+        <sub><b>Summit Seeker Badge</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Champion-Badge.png" width="100" alt="Champion Badge"/><br/>
+        <sub><b>Champion Badge</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Innovator-Badge.png" width="100" alt="Innovator Badge"/><br/>
+        <sub><b>Innovator Badge</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-[![GSSoC'25 Contributor](https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge)](https://github.com/DYHARDx)
+
 
 ---
 
