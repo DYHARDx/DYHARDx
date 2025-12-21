@@ -62,7 +62,26 @@
 
 </div>
 
+---
 
+## 🏅 Code Social  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Explorer-Badge.png" width="100" alt="Explorer Badge"/><br/>
+      <sub><b>Explorer Badge</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/deepanshu-prajapati01/gssoc-tracker-frontend/main/public/badges/Innovator-Badge.png" width="100" alt="Innovator Badge"/><br/>
+      <sub><b>Innovator Badge</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
