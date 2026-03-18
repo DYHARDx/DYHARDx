@@ -26,14 +26,13 @@
 - 🌐 Currently focused on **Web Development (MERN Stack)**  
 - 📱 Experienced in building Android apps using **Java & Kotlin**  
 - 💻 Skilled in **HTML, CSS, JavaScript, and Python**  
-- 🎯 Continuously improving and exploring new technologies  
 
 </td>
 
 <td width="50%" valign="top">
 
 ## 🚀 Open Source Impact
-- 🚀 Founder of **Nexus Spring of Code (Open Source Program)**  
+- 🚀 Founder of **Nexus Spring of Code**  
 - 🥉 GSSoC 2025 Rank 3  
 - 🏆 Code Social Rank 1  
 - 🚀 Hacktoberfest Super Contributor  
