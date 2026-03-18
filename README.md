@@ -88,11 +88,28 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="160" src="https://streak-stats.demolab.com?user=DYHARDx&theme=radical&hide_border=true"/>
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DYHARDx&theme=radical"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DYHARDx&theme=radical"/>
 
 </div>
 
+---
 
+## ❓ What is Nexus Spring of Code (NSOC)?
+
+**Nexus Spring of Code (NSOC)** is an open-source contribution program designed to help developers and students gain hands-on experience by working on real-world projects.
+
+It focuses on making open source more accessible, especially for beginners, by providing structured guidance, mentorship, and a collaborative environment.
+
+### 🔹 Key Highlights
+- 🌍 Open to developers of all skill levels  
+- 📚 Beginner-friendly with guided contributions  
+- 🤝 Work on real-world open-source projects  
+- 🚀 Learn, build, and grow in a collaborative community  
+
+### 🔹 Purpose
+The goal of NSOC is to bridge the gap between learning and real-world development by giving contributors practical experience and helping them become confident open-source developers.
+
+---
 
 
 ### 🚀 Hacktoberfest Badge 
