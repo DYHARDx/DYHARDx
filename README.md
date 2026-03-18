@@ -14,20 +14,34 @@
 
 ---
 
-## 🚀 About Me
-- 📱 Building Android apps using **Java & Kotlin**  
-- 🌐 Web Development: **HTML, CSS, JavaScript**  
-- 🚀 Active Open Source Contributor  
-- 🏆 **GSSoC Rank 3** | **Code Social Rank 1**  
-- 🎯 Focused on real-world projects  
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚀 About Me
+- 🌐 Currently focused on **Web Development (MERN Stack)**  
+- 📱 Experienced in building Android apps using **Java & Kotlin**  
+- 💻 Skilled in **HTML, CSS, JavaScript, and Python**  
+- 🎯 Continuously improving and exploring new technologies  
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🚀 Open Source Impact
+- 🚀 Founder of **NSoC (Open Source Program)**  
 - 🥉 GSSoC 2025 Rank 3  
 - 🏆 Code Social Rank 1  
 - 🚀 Hacktoberfest Super Contributor  
 - 📦 Contributions across multiple real-world projects  
+
+</td>
+</tr>
+</table>
 
 ---
 
