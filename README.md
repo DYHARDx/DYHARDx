@@ -86,8 +86,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=DYHARDx&theme=radical&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://streak-stats.demolab.com?user=DYHARDx&theme=radical&hide_border=true"/>
 <img width="81%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DYHARDx&theme=radical"/>
 
 </div>
