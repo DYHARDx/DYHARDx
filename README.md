@@ -30,16 +30,17 @@
 </td>
 <td width="60%" valign="middle" align="center">
 
-### 🚀 Top Open Source Projects
+### 🚀 My Open Source Projects
 
-<a href="https://github.com/DYHARDx/BYAMN-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DYHARDx&repo=BYAMN-Learning&theme=radical&bg_color=0d0a1a&hide_border=true&title_color=A855F7&text_color=e6edf3&icon_color=C084FC" alt="BYAMN Learning" width="400"/>
-</a>
-<br/><br/>
-<a href="https://github.com/DYHARDx/Study-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DYHARDx&repo=Study-OS&theme=radical&bg_color=0d0a1a&hide_border=true&title_color=A855F7&text_color=e6edf3&icon_color=C084FC" alt="Study OS" width="400"/>
-</a>
-<br/><br/>
+| 🔥 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🌐 Nexus Spring of Code (NSOC)](https://github.com/DYHARDx) | `Open Source` | 🏆 Founder |
+| [📱 Android App — Java](https://github.com/DYHARDx?tab=repositories) | `Java` `Kotlin` | ⭐ |
+| [🌍 MERN Stack App](https://github.com/DYHARDx?tab=repositories) | `React` `Node.js` `MongoDB` | ⭐ |
+| [🐍 Python Projects](https://github.com/DYHARDx?tab=repositories) | `Python` | ⭐ |
+| [🎃 Hacktoberfest Contributions](https://holopin.io/@dyhardx) | `Open Source` | 🎃 Super ⭐ |
+
+<br/>
 
 > 💜 *"I don't just write code, I open source it."*
 
