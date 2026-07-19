@@ -105,9 +105,9 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="320" y="424" width="58" height="27" rx="13.5" fill="rgba(239,68,68,.10)" stroke="#ef4444" stroke-width="1"/><text x="349" y="441" text-anchor="middle" font-size="12" fill="#991b1b" font-weight="bold">Git</text></g>
 
 <text class="ii" x="48" y="492" font-size="15" fill="#6B21A8" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">💜 About Me</text>
-<text class="ii" x="48" y="518" font-size="13.5" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#15803d" font-weight="bold">&gt;_ </tspan><tspan fill="#374151">Founder of </tspan><tspan fill="#6B21A8" font-weight="bold">Nexus Spring of Code (NSOC)</tspan></text>
+<text class="ii" x="48" y="518" font-size="13.5" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#15803d" font-weight="bold">&gt;_ </tspan><tspan fill="#374151">Founder of </tspan><tspan fill="#6B21A8" font-weight="bold">NSoC &amp; BYAMN</tspan></text>
 <text class="ii" x="48" y="542" font-size="13.5" style="animation:fadeIn .4s ease 6.0s forwards"><tspan fill="#b45309">🏆 </tspan><tspan fill="#374151">Code Social </tspan><tspan fill="#6B21A8" font-weight="bold">Rank 1</tspan><tspan fill="#374151"> · GSSoC'25 </tspan><tspan fill="#6B21A8" font-weight="bold">Rank 3</tspan></text>
-<text class="ii" x="48" y="566" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#8A2BE2">🚀 </tspan><tspan fill="#374151">Building real-world open source solutions.</tspan></text>
+<text class="ii" x="48" y="566" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#8A2BE2">☁️ </tspan><tspan fill="#374151">Google Arcade Facilitator </tspan><tspan fill="#6B21A8" font-weight="bold">2026</tspan></text>
 
 <g class="st" style="animation:fadeIn .5s ease 6.4s forwards">
   <rect x="48" y="588" width="580" height="68" rx="12" fill="url(#statbgl)" stroke="#c4b5fd" stroke-width="1"/>
@@ -119,10 +119,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="410" y="614" text-anchor="middle" font-size="11.5" fill="#6b7280">⭐ Stars</text>
   <text x="555" y="614" text-anchor="middle" font-size="11.5" fill="#6b7280">👥 Followers</text>
 </g>
-<text class="st" x="120" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#6B21A8" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.6s forwards">40+</text>
-<text class="st" x="265" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#8A2BE2" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.75s forwards">1K+</text>
-<text class="st" x="410" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#92400e" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.9s forwards">100+</text>
-<text class="st" x="555" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#A855F7" filter="url(#glowl)" style="animation:fadeIn .4s ease 7.05s forwards">200+</text>
+<text class="st" x="120" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#6B21A8" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.6s forwards">82</text>
+<text class="st" x="265" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#8A2BE2" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.75s forwards">500+</text>
+<text class="st" x="410" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#92400e" filter="url(#glowl)" style="animation:fadeIn .4s ease 6.9s forwards">20</text>
+<text class="st" x="555" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#A855F7" filter="url(#glowl)" style="animation:fadeIn .4s ease 7.05s forwards">20</text>
 
 <!-- Right side code terminal - light version -->
 <circle cx="965" cy="390" r="260" fill="url(#termGlowl)"><animate attributeName="r" values="260;285;260" dur="6s" repeatCount="indefinite"/></circle>
@@ -154,7 +154,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="710" y="302" text-anchor="middle" font-size="11.5" fill="#c4b5fd">6</text>
   <text x="739" y="302" font-size="12.5"><tspan fill="#1f2937">  stack: [</tspan><tspan fill="#92400e">"MERN"</tspan><tspan fill="#1f2937">, </tspan><tspan fill="#92400e">"Android"</tspan><tspan fill="#1f2937">],</tspan></text>
   <text x="710" y="322" text-anchor="middle" font-size="11.5" fill="#c4b5fd">7</text>
-  <text x="739" y="322" font-size="12.5"><tspan fill="#1f2937">  founded: </tspan><tspan fill="#8A2BE2">"NSOC"</tspan><tspan fill="#1f2937">,</tspan></text>
+  <text x="739" y="322" font-size="12.5"><tspan fill="#1f2937">  founded: [</tspan><tspan fill="#8A2BE2">"NSoC"</tspan><tspan fill="#1f2937">, </tspan><tspan fill="#8A2BE2">"BYAMN"</tspan><tspan fill="#1f2937">],</tspan></text>
   <text x="710" y="342" text-anchor="middle" font-size="11.5" fill="#c4b5fd">8</text>
   <text x="739" y="342" font-size="12.5"><tspan fill="#1f2937">  passion: </tspan><tspan fill="#92400e">"Open Source 💜"</tspan></text>
   <text x="710" y="362" text-anchor="middle" font-size="11.5" fill="#c4b5fd">9</text>
@@ -165,11 +165,11 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="710" y="420" text-anchor="middle" font-size="11.5" fill="#c4b5fd">13</text>
   <text x="739" y="420" font-size="12.5"><tspan fill="#8A2BE2">const</tspan><tspan fill="#1f2937"> wins </tspan><tspan fill="#0ea5e9">=</tspan><tspan fill="#1f2937"> [</tspan></text>
   <text x="710" y="440" text-anchor="middle" font-size="11.5" fill="#c4b5fd">14</text>
-  <text x="739" y="440" font-size="12.5"><tspan fill="#92400e">  "🏆 Code Social Rank 1"</tspan><tspan fill="#1f2937">,</tspan></text>
+  <text x="739" y="440" font-size="12.5"><tspan fill="#92400e">  "☁️ Google Arcade Fac. 2026"</tspan><tspan fill="#1f2937">,</tspan></text>
   <text x="710" y="460" text-anchor="middle" font-size="11.5" fill="#c4b5fd">15</text>
-  <text x="739" y="460" font-size="12.5"><tspan fill="#92400e">  "🥉 GSSoC 2025 Rank 3"</tspan><tspan fill="#1f2937">,</tspan></text>
+  <text x="739" y="460" font-size="12.5"><tspan fill="#92400e">  "🏆 Code Social Rank 1"</tspan><tspan fill="#1f2937">,</tspan></text>
   <text x="710" y="480" text-anchor="middle" font-size="11.5" fill="#c4b5fd">16</text>
-  <text x="739" y="480" font-size="12.5"><tspan fill="#92400e">  "🎃 Hacktoberfest Super"</tspan></text>
+  <text x="739" y="480" font-size="12.5"><tspan fill="#92400e">  "🥉 GSSoC 2025 Rank 3"</tspan></text>
   <text x="710" y="500" text-anchor="middle" font-size="11.5" fill="#c4b5fd">17</text>
   <text x="739" y="500" font-size="12.5" fill="#1f2937">];</text>
   <rect x="739" y="510" width="8" height="16" fill="#8A2BE2" class="cur" style="animation-delay:7.5s"/>

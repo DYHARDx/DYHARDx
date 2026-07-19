@@ -165,7 +165,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text class="ii" x="48" y="518" font-size="13.5" style="animation:fadeIn .4s ease 5.8s forwards">
   <tspan fill="#4ade80">&gt;_ </tspan>
   <tspan fill="#cdd3dd">Founder of </tspan>
-  <tspan fill="#A855F7" font-weight="bold">Nexus Spring of Code (NSOC)</tspan>
+  <tspan fill="#A855F7" font-weight="bold">NSoC &amp; BYAMN</tspan>
 </text>
 <text class="ii" x="48" y="542" font-size="13.5" style="animation:fadeIn .4s ease 6.0s forwards">
   <tspan fill="#fde047">🏆 </tspan>
@@ -175,8 +175,9 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <tspan fill="#A855F7" font-weight="bold">Rank 3</tspan>
 </text>
 <text class="ii" x="48" y="566" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards">
-  <tspan fill="#A855F7">🚀 </tspan>
-  <tspan fill="#cdd3dd">Building real-world open source solutions.</tspan>
+  <tspan fill="#A855F7">☁️ </tspan>
+  <tspan fill="#cdd3dd">Google Arcade Facilitator </tspan>
+  <tspan fill="#A855F7" font-weight="bold">2026</tspan>
 </text>
 
 <!-- Stats bar -->
