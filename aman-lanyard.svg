@@ -55,6 +55,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <filter id="glow2"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#8A2BE2" flood-opacity=".4"/></filter>
 <clipPath id="cardclip"><rect x="82" y="298" width="256" height="330" rx="20"/></clipPath>
+<clipPath id="avatarclip"><circle cx="210" cy="412" r="57"/></clipPath>
 </defs>
 
 <!-- Ambient glow -->
@@ -167,3 +168,4 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <text x="210" y="652" text-anchor="middle" font-size="10" fill="#8b949e" opacity="0" style="animation:fadeIn .6s ease 3.6s forwards">— drag me… just kidding, I'm an SVG 💜 —</text>
 </svg>
+
