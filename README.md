@@ -64,7 +64,6 @@
 
 <br/><br/>
 
-### 🐍 Watch the snake eat my contributions
 
 <img src="https://raw.githubusercontent.com/DYHARDx/DYHARDx/output/github-snake-purple.svg" alt="Contribution snake"/>
 
