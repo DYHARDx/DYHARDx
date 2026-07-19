@@ -54,19 +54,13 @@
 
 
 
-<a href="https://github.com/DYHARDx">
-  <img src="./aman-stats.svg?v=1" alt="GitHub Stats" height="195"/>
-</a>
+<img src="./aman-stats.svg?v=1" alt="GitHub Stats" height="195"/>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DYHARDx">
-  <img src="./aman-langs.svg?v=1" alt="Top Languages" height="195"/>
-</a>
+<img src="./aman-langs.svg?v=1" alt="Top Languages" height="195"/>
 
 <br/>
 
-<a href="https://github.com/DYHARDx">
-  <img src="https://streak-stats.demolab.com?user=DYHARDx&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=A855F7&currStreakLabel=C084FC&currStreakNum=e6edf3&sideLabels=A855F7&sideNums=e6edf3&dates=9aa4b2" alt="GitHub Streak" height="185"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=DYHARDx&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=A855F7&currStreakLabel=C084FC&currStreakNum=e6edf3&sideLabels=A855F7&sideNums=e6edf3&dates=9aa4b2" alt="GitHub Streak" height="185"/>
 
 <br/><br/>
 
