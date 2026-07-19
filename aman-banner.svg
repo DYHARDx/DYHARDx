@@ -190,10 +190,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="410" y="614" text-anchor="middle" font-size="11.5" fill="#9aa4b2">⭐ Stars</text>
   <text x="555" y="614" text-anchor="middle" font-size="11.5" fill="#9aa4b2">👥 Followers</text>
 </g>
-<text class="st" x="120" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#8A2BE2" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">40+</text>
-<text class="st" x="265" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#A855F7" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">1K+</text>
-<text class="st" x="410" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">100+</text>
-<text class="st" x="555" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#C084FC" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">200+</text>
+<text class="st" x="120" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#8A2BE2" filter="url(#glow)" style="animation:fadeIn .4s ease 6.6s forwards">82</text>
+<text class="st" x="265" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#A855F7" filter="url(#glow)" style="animation:fadeIn .4s ease 6.75s forwards">500+</text>
+<text class="st" x="410" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 6.9s forwards">20</text>
+<text class="st" x="555" y="643" text-anchor="middle" font-size="20" font-weight="bold" fill="#C084FC" filter="url(#glow)" style="animation:fadeIn .4s ease 7.05s forwards">20</text>
 
 <!-- Social links -->
 <g class="soc" style="animation:fadeIn .5s ease 7.2s forwards">
