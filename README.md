@@ -15,8 +15,8 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./aman-lanyard.svg?v=1" alt="Aman Singh — DYHARDx ID Badge" width="300"/>
+<!-- 🪪 Swinging Lanyard ID Card (pure SVG) -->
+<img src="./aman-lanyard.svg?v=1" alt="Aman Singh ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -25,9 +25,9 @@
 
 | 🔥 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🌐 Nexus Spring of Code (NSOC)](https://github.com/DYHARDx) | `Open Source Program` | 🏆 Founder |
-| [📱 Android App Projects](https://github.com/DYHARDx?tab=repositories) | `Java` `Kotlin` | ⭐ |
-| [🌍 MERN Stack Projects](https://github.com/DYHARDx?tab=repositories) | `React` `Node.js` `MongoDB` | ⭐ |
+| [🌐 Nexus Spring of Code (NSOC)](https://github.com/DYHARDx) | `Open Source` | 🏆 Founder |
+| [📱 Android App — Java](https://github.com/DYHARDx?tab=repositories) | `Java` `Kotlin` | ⭐ |
+| [🌍 MERN Stack App](https://github.com/DYHARDx?tab=repositories) | `React` `Node.js` `MongoDB` | ⭐ |
 | [🐍 Python Projects](https://github.com/DYHARDx?tab=repositories) | `Python` | ⭐ |
 | [🎃 Hacktoberfest Contributions](https://holopin.io/@dyhardx) | `Open Source` | 🎃 Super ⭐ |
 
@@ -42,20 +42,6 @@
 <br/>
 
 <div align="center">
-
----
-
-## ❓ What is Nexus Spring of Code (NSOC)?
-
-**Nexus Spring of Code (NSOC)** is an open-source contribution program I founded to help developers and students gain real-world experience by contributing to impactful projects.
-
-### 🔹 Key Highlights
-- 🌍 Open to developers of **all skill levels**
-- 📚 **Beginner-friendly** with guided contributions
-- 🤝 Work on **real-world open-source** projects
-- 🚀 Learn, build, and grow in a **collaborative community**
-
----
 
 ### 📊 GitHub Stats & Graphs
 
@@ -73,22 +59,14 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies -->
-<img src="./aman-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./aman-trophies.svg?v=1" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
 ### 🐍 Watch the snake eat my contributions
 
 <img src="https://raw.githubusercontent.com/DYHARDx/DYHARDx/output/github-snake-purple.svg" alt="Contribution snake"/>
-
-<br/><br/>
-
-### 🎃 Hacktoberfest Badge
-
-<a href="https://holopin.io/@dyhardx">
-  <img src="https://holopin.me/dyhardx" alt="Holopin badges"/>
-</a>
 
 <br/><br/>
 
