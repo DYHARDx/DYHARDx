@@ -105,7 +105,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- Terminal prompt -->
 <text clip-path="url(#cPrompt)" x="48" y="69" font-size="14">
-  <tspan fill="#4ade80" font-weight="bold">aman@open-source-dev</tspan>
+  <tspan fill="#4ade80" font-weight="bold">dyhard@founder-byamn</tspan>
   <tspan fill="#8b949e">:~$ </tspan>
   <tspan fill="#e6edf3">cat </tspan>
   <tspan fill="#A855F7">README.md</tspan>
@@ -375,12 +375,5 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
 </g>
 
-<!-- NSOC founder badge - floating -->
-<g style="animation:fadeIn 0.5s ease 8s forwards;opacity:0">
-  <g class="np" style="animation-delay:1s">
-    <rect x="860" y="100" width="170" height="32" rx="16" fill="#120b23" stroke="#8A2BE2" stroke-width="1.5" filter="url(#glowMed)"/>
-    <text x="945" y="120" text-anchor="middle" font-size="12" fill="#A855F7" font-weight="bold">🚀 Founder · NSOC</text>
-  </g>
-</g>
 
 </svg>
