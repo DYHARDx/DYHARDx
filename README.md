@@ -54,10 +54,6 @@
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DYHARDx&bg_color=0d0a1a&color=A855F7&line=8A2BE2&point=C084FC&area=true&area_color=6B21A8&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
 <img src="./aman-trophies.svg?v=1" alt="Trophies" width="95%"/>
@@ -65,9 +61,6 @@
 <br/><br/>
 
 
-<img src="https://raw.githubusercontent.com/DYHARDx/DYHARDx/output/github-snake-purple.svg" alt="Contribution snake"/>
-
-<br/><br/>
 
 ### 📫 Let's Connect
 
