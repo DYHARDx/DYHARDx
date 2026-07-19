@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./aman-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./aman-banner-light.svg?v=1">
-  <img src="./aman-banner.svg?v=1" alt="Aman Singh — Open Source Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./aman-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./aman-banner-light.svg?v=2">
+  <img src="./aman-banner.svg?v=2" alt="Aman Singh — Open Source Developer" width="100%"/>
 </picture>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 <td width="40%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (pure SVG) -->
-<img src="./aman-lanyard.svg?v=1" alt="Aman Singh ID badge" width="330"/>
+<img src="./aman-lanyard.svg?v=2" alt="Aman Singh ID badge" width="330"/>
 
 </td>
 <td width="60%" valign="middle" align="center">
