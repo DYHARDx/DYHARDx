@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 180" width="840" height="180" role="img" aria-label="DYHARDx GitHub Trophies">
+<title>DYHARDx GitHub Trophies</title>
+<defs>
+<style><![CDATA[
+@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:.7}50%{opacity:1}}
+@keyframes glow{0%,100%{filter:drop-shadow(0 0 3px #8A2BE2)}50%{filter:drop-shadow(0 0 8px #A855F7)}}
+.trophy{animation:fadeIn .5s ease both}
+.trophy-glow{animation:glow 3s ease-in-out infinite}
+]]></style>
+<linearGradient id="tBg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#1a0a2e"/>
+  <stop offset="100%" stop-color="#0d0a1a"/>
+</linearGradient>
+<linearGradient id="goldTrophy" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#fbbf24"/>
+  <stop offset="100%" stop-color="#d97706"/>
+</linearGradient>
+<linearGradient id="silverTrophy" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#e2e8f0"/>
+  <stop offset="100%" stop-color="#94a3b8"/>
+</linearGradient>
+<linearGradient id="bronzeTrophy" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#fdba74"/>
+  <stop offset="100%" stop-color="#c2410c"/>
+</linearGradient>
+<linearGradient id="purpleTrophy" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#A855F7"/>
+  <stop offset="100%" stop-color="#6B21A8"/>
+</linearGradient>
+<filter id="tGlow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="840" height="180" rx="10" fill="url(#tBg)" stroke="#3b1d6e" stroke-width="1"/>
+
+<!-- Trophy helper macro - draw 6 trophies -->
+<!-- Trophy 1: MultiLanguage -->
+<g class="trophy" style="animation-delay:.1s">
+  <rect x="10" y="10" width="128" height="160" rx="8" fill="#120b23" stroke="#8A2BE2" stroke-width="1"/>
+  <!-- Trophy cup -->
+  <path d="M 64 30 L 45 30 L 45 75 Q 45 95 64 100 Q 83 95 83 75 L 83 30 Z" fill="url(#goldTrophy)" class="trophy-glow"/>
+  <!-- Trophy handles -->
+  <path d="M 45 42 Q 30 42 30 58 Q 30 74 45 74" fill="none" stroke="url(#goldTrophy)" stroke-width="5"/>
+  <path d="M 83 42 Q 98 42 98 58 Q 98 74 83 74" fill="none" stroke="url(#goldTrophy)" stroke-width="5"/>
+  <!-- Trophy stem -->
+  <rect x="58" y="100" width="12" height="20" fill="url(#goldTrophy)"/>
+  <rect x="48" y="118" width="32" height="7" rx="2" fill="url(#goldTrophy)"/>
+  <!-- Star in trophy -->
+  <text x="64" y="70" text-anchor="middle" font-size="20" fill="#fff7ed">⭐</text>
+  <!-- Label -->
+  <text x="64" y="140" text-anchor="middle" font-size="10" fill="#fbbf24" font-family="monospace" font-weight="bold">S. Stars</text>
+  <text x="64" y="155" text-anchor="middle" font-size="10" fill="#fde047" font-family="monospace">100+</text>
+</g>
+
+<!-- Trophy 2: Commits -->
+<g class="trophy" style="animation-delay:.25s">
+  <rect x="148" y="10" width="128" height="160" rx="8" fill="#120b23" stroke="#6B21A8" stroke-width="1"/>
+  <path d="M 212 30 L 193 30 L 193 75 Q 193 95 212 100 Q 231 95 231 75 L 231 30 Z" fill="url(#purpleTrophy)" class="trophy-glow"/>
+  <path d="M 193 42 Q 178 42 178 58 Q 178 74 193 74" fill="none" stroke="url(#purpleTrophy)" stroke-width="5"/>
+  <path d="M 231 42 Q 246 42 246 58 Q 246 74 231 74" fill="none" stroke="url(#purpleTrophy)" stroke-width="5"/>
+  <rect x="206" y="100" width="12" height="20" fill="url(#purpleTrophy)"/>
+  <rect x="196" y="118" width="32" height="7" rx="2" fill="url(#purpleTrophy)"/>
+  <text x="212" y="70" text-anchor="middle" font-size="20" fill="#f0e6ff">💻</text>
+  <text x="212" y="140" text-anchor="middle" font-size="10" fill="#C084FC" font-family="monospace" font-weight="bold">Commits</text>
+  <text x="212" y="155" text-anchor="middle" font-size="10" fill="#A855F7" font-family="monospace">1000+</text>
+</g>
+
+<!-- Trophy 3: PRs -->
+<g class="trophy" style="animation-delay:.4s">
+  <rect x="286" y="10" width="128" height="160" rx="8" fill="#120b23" stroke="#8A2BE2" stroke-width="1"/>
+  <path d="M 350 30 L 331 30 L 331 75 Q 331 95 350 100 Q 369 95 369 75 L 369 30 Z" fill="url(#silverTrophy)" class="trophy-glow"/>
+  <path d="M 331 42 Q 316 42 316 58 Q 316 74 331 74" fill="none" stroke="url(#silverTrophy)" stroke-width="5"/>
+  <path d="M 369 42 Q 384 42 384 58 Q 384 74 369 74" fill="none" stroke="url(#silverTrophy)" stroke-width="5"/>
+  <rect x="344" y="100" width="12" height="20" fill="url(#silverTrophy)"/>
+  <rect x="334" y="118" width="32" height="7" rx="2" fill="url(#silverTrophy)"/>
+  <text x="350" y="70" text-anchor="middle" font-size="20" fill="#e2e8f0">🔀</text>
+  <text x="350" y="140" text-anchor="middle" font-size="10" fill="#e2e8f0" font-family="monospace" font-weight="bold">Pull Req</text>
+  <text x="350" y="155" text-anchor="middle" font-size="10" fill="#cbd5e1" font-family="monospace">150+</text>
+</g>
+
+<!-- Trophy 4: GSSoC -->
+<g class="trophy" style="animation-delay:.55s">
+  <rect x="424" y="10" width="128" height="160" rx="8" fill="#120b23" stroke="#A855F7" stroke-width="1"/>
+  <path d="M 488 30 L 469 30 L 469 75 Q 469 95 488 100 Q 507 95 507 75 L 507 30 Z" fill="url(#bronzeTrophy)" class="trophy-glow"/>
+  <path d="M 469 42 Q 454 42 454 58 Q 454 74 469 74" fill="none" stroke="url(#bronzeTrophy)" stroke-width="5"/>
+  <path d="M 507 42 Q 522 42 522 58 Q 522 74 507 74" fill="none" stroke="url(#bronzeTrophy)" stroke-width="5"/>
+  <rect x="482" y="100" width="12" height="20" fill="url(#bronzeTrophy)"/>
+  <rect x="472" y="118" width="32" height="7" rx="2" fill="url(#bronzeTrophy)"/>
+  <text x="488" y="70" text-anchor="middle" font-size="20" fill="#fff">🥉</text>
+  <text x="488" y="140" text-anchor="middle" font-size="10" fill="#fdba74" font-family="monospace" font-weight="bold">GSSoC'25</text>
+  <text x="488" y="155" text-anchor="middle" font-size="10" fill="#fb923c" font-family="monospace">Rank 3</text>
+</g>
+
+<!-- Trophy 5: Hacktoberfest -->
+<g class="trophy" style="animation-delay:.7s">
+  <rect x="562" y="10" width="128" height="160" rx="8" fill="#120b23" stroke="#f97316" stroke-width="1"/>
+  <path d="M 626 30 L 607 30 L 607 75 Q 607 95 626 100 Q 645 95 645 75 L 645 30 Z" fill="url(#goldTrophy)" class="trophy-glow"/>
+  <path d="M 607 42 Q 592 42 592 58 Q 592 74 607 74" fill="none" stroke="url(#goldTrophy)" stroke-width="5"/>
+  <path d="M 645 42 Q 660 42 660 58 Q 660 74 645 74" fill="none" stroke="url(#goldTrophy)" stroke-width="5"/>
+  <rect x="620" y="100" width="12" height="20" fill="url(#goldTrophy)"/>
+  <rect x="610" y="118" width="32" height="7" rx="2" fill="url(#goldTrophy)"/>
+  <text x="626" y="70" text-anchor="middle" font-size="20" fill="#fff">🎃</text>
+  <text x="626" y="140" text-anchor="middle" font-size="10" fill="#fb923c" font-family="monospace" font-weight="bold">Hacktober</text>
+  <text x="626" y="155" text-anchor="middle" font-size="10" fill="#f97316" font-family="monospace">Super ⭐</text>
+</g>
+
+<!-- Trophy 6: NSOC Founder -->
+<g class="trophy" style="animation-delay:.85s">
+  <rect x="700" y="10" width="130" height="160" rx="8" fill="#120b23" stroke="#8A2BE2" stroke-width="1"/>
+  <path d="M 765 30 L 746 30 L 746 75 Q 746 95 765 100 Q 784 95 784 75 L 784 30 Z" fill="url(#purpleTrophy)" class="trophy-glow"/>
+  <path d="M 746 42 Q 731 42 731 58 Q 731 74 746 74" fill="none" stroke="url(#purpleTrophy)" stroke-width="5"/>
+  <path d="M 784 42 Q 799 42 799 58 Q 799 74 784 74" fill="none" stroke="url(#purpleTrophy)" stroke-width="5"/>
+  <rect x="759" y="100" width="12" height="20" fill="url(#purpleTrophy)"/>
+  <rect x="749" y="118" width="32" height="7" rx="2" fill="url(#purpleTrophy)"/>
+  <text x="765" y="70" text-anchor="middle" font-size="20" fill="#f5f0ff">🚀</text>
+  <text x="765" y="140" text-anchor="middle" font-size="10" fill="#C084FC" font-family="monospace" font-weight="bold">NSOC</text>
+  <text x="765" y="155" text-anchor="middle" font-size="10" fill="#A855F7" font-family="monospace">Founder</text>
+</g>
+
+</svg>
