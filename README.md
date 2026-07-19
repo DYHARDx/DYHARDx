@@ -52,9 +52,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats & Activity
 
-<br/>
 
 <a href="https://github.com/DYHARDx">
   <img src="./aman-stats.svg?v=1" alt="GitHub Stats" height="195"/>
